@@ -1,0 +1,61 @@
+2017-05-30 00:11:13 LOOP 14700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 00:36:40 LOOP 15000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 01:02:08 LOOP 15300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 01:27:35 LOOP 15600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 01:53:02 LOOP 15900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 02:18:48 LOOP 16200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 02:44:15 LOOP 16500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 03:06:59 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Ok" 
+2017-05-30 03:06:59 LOOP 0 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 03:32:27 LOOP 300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 03:57:54 LOOP 600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 04:23:21 LOOP 900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 04:48:48 LOOP 1200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 05:14:16 LOOP 1500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 05:39:43 LOOP 1800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 06:05:11 LOOP 2100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 06:30:39 LOOP 2400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 06:56:09 LOOP 2700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 07:21:42 LOOP 3000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 07:46:00 "Exec Query[update tbl_cam set cam_video_stat=0 where cam_video_stat=1 and cam_videotime<subtime(now(),'00:03:00')], error[Deadlock found when trying to get lock; try restarting transaction QMYSQL: Unable to execute query], host[10.0.0.5], database[localvnm], alias[SendMailLocalDatabase0]" 
+2017-05-30 07:46:00 "Exec Query[update tbl_cam set cam_analytics_stat=0 where cam_analytics_stat=1 and cam_analytics_time<subtime(now(),'00:05:00')], error[Deadlock found when trying to get lock; try restarting transaction QMYSQL: Unable to execute query], host[10.0.0.5], database[localvnm], alias[SendMailLocalDatabase0]" 
+2017-05-30 07:47:38 LOOP 3300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 08:13:14 LOOP 3600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 08:38:46 LOOP 3900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 09:04:19 LOOP 4200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 09:29:49 LOOP 4500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 09:55:21 LOOP 4800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 10:20:52 LOOP 5100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 10:47:32 LOOP 5400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 11:13:18 LOOP 5700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 11:38:48 LOOP 6000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 12:04:18 LOOP 6300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 12:29:46 LOOP 6600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 12:55:32 LOOP 6900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 13:20:59 LOOP 7200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 13:46:28 LOOP 7500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 14:11:56 LOOP 7800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 14:38:21 LOOP 8100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 15:04:57 LOOP 8400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 15:30:36 LOOP 8700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 15:56:17 LOOP 9000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 16:21:46 LOOP 9300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 16:47:18 LOOP 9600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 17:12:56 LOOP 9900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 17:38:38 LOOP 10200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 18:04:13 LOOP 10500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 18:24:02 "Exec Query[update tbl_cam set cam_video_stat=0 where cam_video_stat=1 and cam_videotime<subtime(now(),'00:03:00')], error[Deadlock found when trying to get lock; try restarting transaction QMYSQL: Unable to execute query], host[10.0.0.5], database[localvnm], alias[SendMailLocalDatabase0]" 
+2017-05-30 18:29:44 LOOP 10800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 18:55:12 LOOP 11100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 19:20:40 LOOP 11400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 19:46:08 LOOP 11700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 20:11:36 LOOP 12000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 20:37:06 LOOP 12300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 20:43:34 "Exec Query[update tbl_cam set cam_video_stat=0 where cam_video_stat=1 and cam_videotime<subtime(now(),'00:03:00')], error[Deadlock found when trying to get lock; try restarting transaction QMYSQL: Unable to execute query], host[10.0.0.5], database[localvnm], alias[SendMailLocalDatabase0]" 
+2017-05-30 21:02:45 LOOP 12600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 21:28:22 LOOP 12900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 21:53:50 LOOP 13200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 22:19:35 LOOP 13500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 22:45:02 LOOP 13800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 23:10:30 LOOP 14100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-30 23:35:58 LOOP 14400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 

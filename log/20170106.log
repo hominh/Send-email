@@ -1,0 +1,336 @@
+2017-01-06 00:10:47 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:10:47 Open database error ::exit(1); 
+2017-01-06 00:10:52 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:10:52 Open database error ::exit(1); 
+2017-01-06 00:10:57 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:10:57 Open database error ::exit(1); 
+2017-01-06 00:11:02 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:11:02 Open database error ::exit(1); 
+2017-01-06 00:11:07 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:11:07 Open database error ::exit(1); 
+2017-01-06 00:11:12 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:11:12 Open database error ::exit(1); 
+2017-01-06 00:11:17 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:11:17 Open database error ::exit(1); 
+2017-01-06 00:11:22 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:11:22 Open database error ::exit(1); 
+2017-01-06 00:11:27 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:11:27 Open database error ::exit(1); 
+2017-01-06 00:11:32 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:11:32 Open database error ::exit(1); 
+2017-01-06 00:11:37 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:11:37 Open database error ::exit(1); 
+2017-01-06 00:11:42 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:11:42 Open database error ::exit(1); 
+2017-01-06 00:11:47 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:11:47 Open database error ::exit(1); 
+2017-01-06 00:11:52 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:11:52 Open database error ::exit(1); 
+2017-01-06 00:11:57 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:11:57 Open database error ::exit(1); 
+2017-01-06 00:12:02 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:12:02 Open database error ::exit(1); 
+2017-01-06 00:12:07 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:12:07 Open database error ::exit(1); 
+2017-01-06 00:12:12 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:12:12 Open database error ::exit(1); 
+2017-01-06 00:12:17 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:12:17 Open database error ::exit(1); 
+2017-01-06 00:12:22 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:12:22 Open database error ::exit(1); 
+2017-01-06 00:12:27 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:12:27 Open database error ::exit(1); 
+2017-01-06 00:12:32 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:12:32 Open database error ::exit(1); 
+2017-01-06 00:12:37 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:12:37 Open database error ::exit(1); 
+2017-01-06 00:12:42 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:12:42 Open database error ::exit(1); 
+2017-01-06 00:12:47 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:12:47 Open database error ::exit(1); 
+2017-01-06 00:12:52 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:12:52 Open database error ::exit(1); 
+2017-01-06 00:12:57 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:12:57 Open database error ::exit(1); 
+2017-01-06 00:13:02 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:13:02 Open database error ::exit(1); 
+2017-01-06 00:13:07 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:13:07 Open database error ::exit(1); 
+2017-01-06 00:13:12 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:13:12 Open database error ::exit(1); 
+2017-01-06 00:13:17 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:13:17 Open database error ::exit(1); 
+2017-01-06 00:13:22 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-06 00:13:22 Open database error ::exit(1); 
+2017-01-06 00:13:27 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:13:27 Open database error ::exit(1); 
+2017-01-06 00:13:32 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:13:32 Open database error ::exit(1); 
+2017-01-06 00:13:37 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Ok" 
+2017-01-06 00:13:38 LOOP 0 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 00:30:34 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:30:34 "Exec Query[select thamso_giatri from tbl_thamso where thamso_ten='SMSList'], error[MySQL server has gone away QMYSQL: Unable to execute query], host[localhost], database[localvnm], alias[SendMailLocalDatabase0]" 
+2017-01-06 00:30:34 QSqlQuery::exec: database not open
+2017-01-06 00:30:34 QSqlQuery::exec: database not open
+2017-01-06 00:30:34 QSqlQuery::exec: database not open
+2017-01-06 00:30:34 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:30:34 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:30:34 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:30:34 SQL error "Driver not loaded Driver not loaded" 
+2017-01-06 00:30:34 QSqlDatabasePrivate::removeDatabase: connection 'SendMailLocalDatabase0' is still in use, all queries will cease to work.
+2017-01-06 00:30:39 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:30:39 Open database error ::exit(1); 
+2017-01-06 00:30:44 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:30:44 Open database error ::exit(1); 
+2017-01-06 00:31:03 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:31:03 Open database error ::exit(1); 
+2017-01-06 00:46:37 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:46:37 Open database error ::exit(1); 
+2017-01-06 00:46:42 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:46:42 Open database error ::exit(1); 
+2017-01-06 00:46:47 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:46:47 Open database error ::exit(1); 
+2017-01-06 00:46:52 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:46:52 Open database error ::exit(1); 
+2017-01-06 00:46:57 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:46:57 Open database error ::exit(1); 
+2017-01-06 00:47:02 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:47:02 Open database error ::exit(1); 
+2017-01-06 00:47:07 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:47:07 Open database error ::exit(1); 
+2017-01-06 00:47:12 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:47:12 Open database error ::exit(1); 
+2017-01-06 00:47:17 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:47:17 Open database error ::exit(1); 
+2017-01-06 00:47:22 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:47:22 Open database error ::exit(1); 
+2017-01-06 00:47:27 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:47:27 Open database error ::exit(1); 
+2017-01-06 00:47:32 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:47:32 Open database error ::exit(1); 
+2017-01-06 00:47:37 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:47:37 Open database error ::exit(1); 
+2017-01-06 00:47:42 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:47:42 Open database error ::exit(1); 
+2017-01-06 00:47:47 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:47:47 Open database error ::exit(1); 
+2017-01-06 00:47:52 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:47:52 Open database error ::exit(1); 
+2017-01-06 00:47:57 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:47:57 Open database error ::exit(1); 
+2017-01-06 00:48:02 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:48:02 Open database error ::exit(1); 
+2017-01-06 00:48:07 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:48:07 Open database error ::exit(1); 
+2017-01-06 00:48:12 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:48:12 Open database error ::exit(1); 
+2017-01-06 00:48:17 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:48:17 Open database error ::exit(1); 
+2017-01-06 00:48:22 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:48:22 Open database error ::exit(1); 
+2017-01-06 00:48:27 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:48:27 Open database error ::exit(1); 
+2017-01-06 00:48:32 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:48:32 Open database error ::exit(1); 
+2017-01-06 00:48:37 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:48:37 Open database error ::exit(1); 
+2017-01-06 00:48:42 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:48:42 Open database error ::exit(1); 
+2017-01-06 00:48:47 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:48:47 Open database error ::exit(1); 
+2017-01-06 00:48:52 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:48:52 Open database error ::exit(1); 
+2017-01-06 00:48:57 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:48:57 Open database error ::exit(1); 
+2017-01-06 00:49:02 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:49:02 Open database error ::exit(1); 
+2017-01-06 00:49:07 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Ok" 
+2017-01-06 00:49:09 LOOP 0 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 00:50:22 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:50:22 Open database error ::exit(1); 
+2017-01-06 00:56:31 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:56:31 Open database error ::exit(1); 
+2017-01-06 00:56:36 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:56:36 Open database error ::exit(1); 
+2017-01-06 00:56:41 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:56:41 Open database error ::exit(1); 
+2017-01-06 00:56:46 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:56:46 Open database error ::exit(1); 
+2017-01-06 00:56:51 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:56:51 Open database error ::exit(1); 
+2017-01-06 00:56:56 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:56:56 Open database error ::exit(1); 
+2017-01-06 00:57:01 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:57:01 Open database error ::exit(1); 
+2017-01-06 00:57:06 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:57:06 Open database error ::exit(1); 
+2017-01-06 00:57:11 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:57:11 Open database error ::exit(1); 
+2017-01-06 00:57:16 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:57:16 Open database error ::exit(1); 
+2017-01-06 00:57:21 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:57:21 Open database error ::exit(1); 
+2017-01-06 00:57:26 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:57:26 Open database error ::exit(1); 
+2017-01-06 00:57:31 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:57:31 Open database error ::exit(1); 
+2017-01-06 00:57:36 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:57:36 Open database error ::exit(1); 
+2017-01-06 00:57:41 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:57:41 Open database error ::exit(1); 
+2017-01-06 00:57:46 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:57:46 Open database error ::exit(1); 
+2017-01-06 00:57:51 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:57:51 Open database error ::exit(1); 
+2017-01-06 00:57:56 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:57:56 Open database error ::exit(1); 
+2017-01-06 00:58:01 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:58:01 Open database error ::exit(1); 
+2017-01-06 00:58:06 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:58:06 Open database error ::exit(1); 
+2017-01-06 00:58:11 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:58:11 Open database error ::exit(1); 
+2017-01-06 00:58:16 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:58:16 Open database error ::exit(1); 
+2017-01-06 00:58:21 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:58:21 Open database error ::exit(1); 
+2017-01-06 00:58:26 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:58:26 Open database error ::exit(1); 
+2017-01-06 00:58:31 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:58:31 Open database error ::exit(1); 
+2017-01-06 00:58:36 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:58:36 Open database error ::exit(1); 
+2017-01-06 00:58:41 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:58:41 Open database error ::exit(1); 
+2017-01-06 00:58:46 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:58:46 Open database error ::exit(1); 
+2017-01-06 00:58:51 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:58:51 Open database error ::exit(1); 
+2017-01-06 00:58:56 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 00:58:56 Open database error ::exit(1); 
+2017-01-06 00:59:01 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Ok" 
+2017-01-06 00:59:05 LOOP 0 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 01:01:55 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:01:55 "Exec Query[update tbl_syslog set syslog_reported=1 where syslog_id in (8524,8525,8526,8527)], error[MySQL server has gone away QMYSQL: Unable to execute query], host[localhost], database[localvnm], alias[SendMailLocalDatabase0]" 
+2017-01-06 01:02:12 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:02:12 Open database error ::exit(1); 
+2017-01-06 01:12:27 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:12:27 Open database error ::exit(1); 
+2017-01-06 01:12:32 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:12:32 Open database error ::exit(1); 
+2017-01-06 01:12:37 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:12:37 Open database error ::exit(1); 
+2017-01-06 01:12:42 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:12:42 Open database error ::exit(1); 
+2017-01-06 01:12:47 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:12:47 Open database error ::exit(1); 
+2017-01-06 01:12:52 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:12:52 Open database error ::exit(1); 
+2017-01-06 01:12:57 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:12:57 Open database error ::exit(1); 
+2017-01-06 01:13:02 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:13:02 Open database error ::exit(1); 
+2017-01-06 01:13:07 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:13:07 Open database error ::exit(1); 
+2017-01-06 01:13:12 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:13:12 Open database error ::exit(1); 
+2017-01-06 01:13:17 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:13:17 Open database error ::exit(1); 
+2017-01-06 01:13:22 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Ok" 
+2017-01-06 01:13:27 LOOP 0 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 01:22:18 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:22:18 "Exec Query[select thamso_giatri from tbl_thamso where thamso_ten='SMSList'], error[MySQL server has gone away QMYSQL: Unable to execute query], host[localhost], database[localvnm], alias[SendMailLocalDatabase0]" 
+2017-01-06 01:22:18 QSqlQuery::exec: database not open
+2017-01-06 01:22:18 QSqlQuery::exec: database not open
+2017-01-06 01:22:18 QSqlQuery::exec: database not open
+2017-01-06 01:22:18 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:22:18 SQL error "Driver not loaded Driver not loaded" 
+2017-01-06 01:22:18 QSqlDatabasePrivate::removeDatabase: connection 'SendMailLocalDatabase0' is still in use, all queries will cease to work.
+2017-01-06 01:22:23 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:22:23 Open database error ::exit(1); 
+2017-01-06 01:22:28 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:22:28 Open database error ::exit(1); 
+2017-01-06 01:22:43 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:22:43 Open database error ::exit(1); 
+2017-01-06 01:41:44 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:41:44 Open database error ::exit(1); 
+2017-01-06 01:41:49 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:41:49 Open database error ::exit(1); 
+2017-01-06 01:41:54 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:41:54 Open database error ::exit(1); 
+2017-01-06 01:41:59 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:41:59 Open database error ::exit(1); 
+2017-01-06 01:42:04 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:42:04 Open database error ::exit(1); 
+2017-01-06 01:42:09 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:42:09 Open database error ::exit(1); 
+2017-01-06 01:42:14 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:42:14 Open database error ::exit(1); 
+2017-01-06 01:42:19 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:42:19 Open database error ::exit(1); 
+2017-01-06 01:42:24 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:42:24 Open database error ::exit(1); 
+2017-01-06 01:42:29 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:42:29 Open database error ::exit(1); 
+2017-01-06 01:42:34 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:42:34 Open database error ::exit(1); 
+2017-01-06 01:42:39 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:42:39 Open database error ::exit(1); 
+2017-01-06 01:42:44 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:42:44 Open database error ::exit(1); 
+2017-01-06 01:42:49 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-06 01:42:49 Open database error ::exit(1); 
+2017-01-06 01:42:54 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Ok" 
+2017-01-06 01:43:04 LOOP 0 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 02:09:32 LOOP 300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 02:34:35 LOOP 600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 02:59:39 LOOP 900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 03:25:04 LOOP 1200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 03:50:08 LOOP 1500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 04:15:11 LOOP 1800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 04:40:26 LOOP 2100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 05:05:29 LOOP 2400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 05:30:32 LOOP 2700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 05:55:36 LOOP 3000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 06:20:39 LOOP 3300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 06:45:42 LOOP 3600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 07:10:46 LOOP 3900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 07:35:49 LOOP 4200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 08:00:53 LOOP 4500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 08:25:57 LOOP 4800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 08:51:27 LOOP 5100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 09:16:31 LOOP 5400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 09:41:56 LOOP 5700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 10:07:00 LOOP 6000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 10:32:46 LOOP 6300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 10:59:58 LOOP 6600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 11:25:54 LOOP 6900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 11:52:39 LOOP 7200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 12:18:15 LOOP 7500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 12:43:18 LOOP 7800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 13:08:22 LOOP 8100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 13:35:16 LOOP 8400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 14:00:20 LOOP 8700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 14:25:24 LOOP 9000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 14:50:27 LOOP 9300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 15:15:31 LOOP 9600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 15:40:35 LOOP 9900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 16:05:38 LOOP 10200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 16:30:42 LOOP 10500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 16:55:46 LOOP 10800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 17:20:50 LOOP 11100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 17:46:38 LOOP 11400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 18:12:14 LOOP 11700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 18:37:52 LOOP 12000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 19:02:55 LOOP 12300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 19:28:10 LOOP 12600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 19:53:14 LOOP 12900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 20:18:18 LOOP 13200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 20:43:21 LOOP 13500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 21:08:25 LOOP 13800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 21:33:28 LOOP 14100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 21:58:32 LOOP 14400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 22:23:35 LOOP 14700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 22:48:39 LOOP 15000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 23:13:43 LOOP 15300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2017-01-06 23:38:46 LOOP 15600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 

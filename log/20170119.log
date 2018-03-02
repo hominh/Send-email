@@ -1,0 +1,121 @@
+2017-01-19 00:12:50 LOOP 110400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 00:38:00 LOOP 110700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 01:03:09 LOOP 111000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 01:28:19 LOOP 111300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 01:53:28 LOOP 111600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 02:18:38 LOOP 111900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 02:43:47 LOOP 112200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 03:08:57 LOOP 112500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 03:34:07 LOOP 112800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 03:59:16 LOOP 113100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 04:24:26 LOOP 113400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 04:49:35 LOOP 113700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 05:14:44 LOOP 114000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 05:39:54 LOOP 114300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 06:05:04 LOOP 114600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 06:30:13 LOOP 114900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 06:55:23 LOOP 115200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 07:20:42 LOOP 115500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 07:45:52 LOOP 115800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 08:11:01 LOOP 116100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 08:41:25 LOOP 116400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 09:06:36 LOOP 116700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 09:32:01 LOOP 117000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 09:57:12 LOOP 117300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 10:22:57 LOOP 117600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 10:48:23 LOOP 117900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 12:57:04 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:57:04 Open database error ::exit(1); 
+2017-01-19 12:57:09 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:57:09 Open database error ::exit(1); 
+2017-01-19 12:57:14 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:57:14 Open database error ::exit(1); 
+2017-01-19 12:57:19 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:57:19 Open database error ::exit(1); 
+2017-01-19 12:57:24 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:57:24 Open database error ::exit(1); 
+2017-01-19 12:57:29 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:57:29 Open database error ::exit(1); 
+2017-01-19 12:57:34 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:57:34 Open database error ::exit(1); 
+2017-01-19 12:57:39 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:57:39 Open database error ::exit(1); 
+2017-01-19 12:57:44 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:57:44 Open database error ::exit(1); 
+2017-01-19 12:57:49 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:57:49 Open database error ::exit(1); 
+2017-01-19 12:57:54 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:57:54 Open database error ::exit(1); 
+2017-01-19 12:57:59 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:57:59 Open database error ::exit(1); 
+2017-01-19 12:58:04 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:58:04 Open database error ::exit(1); 
+2017-01-19 12:58:09 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:58:09 Open database error ::exit(1); 
+2017-01-19 12:58:14 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:58:14 Open database error ::exit(1); 
+2017-01-19 12:58:19 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:58:19 Open database error ::exit(1); 
+2017-01-19 12:58:24 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:58:24 Open database error ::exit(1); 
+2017-01-19 12:58:29 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:58:29 Open database error ::exit(1); 
+2017-01-19 12:58:34 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:58:34 Open database error ::exit(1); 
+2017-01-19 12:58:39 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:58:39 Open database error ::exit(1); 
+2017-01-19 12:58:44 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:58:44 Open database error ::exit(1); 
+2017-01-19 12:58:49 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:58:49 Open database error ::exit(1); 
+2017-01-19 12:58:54 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:58:54 Open database error ::exit(1); 
+2017-01-19 12:58:59 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:58:59 Open database error ::exit(1); 
+2017-01-19 12:59:04 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:59:04 Open database error ::exit(1); 
+2017-01-19 12:59:09 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:59:09 Open database error ::exit(1); 
+2017-01-19 12:59:14 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:59:14 Open database error ::exit(1); 
+2017-01-19 12:59:19 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:59:19 Open database error ::exit(1); 
+2017-01-19 12:59:24 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:59:24 Open database error ::exit(1); 
+2017-01-19 12:59:29 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:59:29 Open database error ::exit(1); 
+2017-01-19 12:59:34 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) QMYSQL: Unable to connect" 
+2017-01-19 12:59:34 Open database error ::exit(1); 
+2017-01-19 12:59:39 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-19 12:59:39 Open database error ::exit(1); 
+2017-01-19 12:59:44 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-19 12:59:44 Open database error ::exit(1); 
+2017-01-19 12:59:49 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Error :Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) QMYSQL: Unable to connect" 
+2017-01-19 12:59:49 Open database error ::exit(1); 
+2017-01-19 12:59:54 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Ok" 
+2017-01-19 12:59:55 LOOP 0 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 13:29:57 LOOP 300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 13:55:09 LOOP 600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 14:20:21 LOOP 900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 14:45:33 LOOP 1200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 15:10:45 LOOP 1500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 15:37:37 LOOP 1800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 16:04:10 LOOP 2100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 16:30:30 LOOP 2400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 16:55:41 LOOP 2700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 17:20:53 LOOP 3000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 17:46:36 LOOP 3300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 18:12:23 LOOP 3600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 18:37:50 LOOP 3900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 19:03:23 LOOP 4200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 19:28:42 LOOP 4500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 19:54:01 LOOP 4800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 20:19:13 LOOP 5100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 20:44:24 LOOP 5400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 21:09:36 LOOP 5700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 21:34:48 LOOP 6000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 22:00:15 LOOP 6300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 22:25:27 LOOP 6600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 22:50:39 LOOP 6900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 23:16:05 LOOP 7200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-01-19 23:41:31 LOOP 7500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 

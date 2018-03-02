@@ -1,0 +1,293 @@
+2017-05-17 00:04:30 LOOP 14700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 00:29:57 LOOP 15000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 00:55:24 LOOP 15300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 01:20:51 LOOP 15600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 01:46:18 LOOP 15900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 02:11:44 LOOP 16200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 02:37:11 LOOP 16500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 03:02:38 LOOP 16800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 03:28:04 LOOP 17100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 03:51:08 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:51:08 "Exec Query[select thamso_giatri from tbl_thamso where thamso_ten='SMSList'], error[Lost connection to MySQL server during query QMYSQL: Unable to execute query], host[10.0.0.5], database[localvnm], alias[SendMailLocalDatabase0]" 
+2017-05-17 03:51:08 QSqlQuery::exec: database not open
+2017-05-17 03:51:08 QSqlQuery::exec: database not open
+2017-05-17 03:51:08 QSqlQuery::exec: database not open
+2017-05-17 03:51:11 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:51:14 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:51:17 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:51:17 SQL error "Driver not loaded Driver not loaded" 
+2017-05-17 03:51:17 QSqlDatabasePrivate::removeDatabase: connection 'SendMailLocalDatabase0' is still in use, all queries will cease to work.
+2017-05-17 03:51:23 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:51:23 Open database error ::exit(1); 
+2017-05-17 03:51:29 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:51:29 Open database error ::exit(1); 
+2017-05-17 03:51:35 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:51:35 Open database error ::exit(1); 
+2017-05-17 03:51:44 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:51:44 Open database error ::exit(1); 
+2017-05-17 03:51:50 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:51:50 Open database error ::exit(1); 
+2017-05-17 03:52:58 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 03:52:58 Open database error ::exit(1); 
+2017-05-17 03:54:06 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 03:54:06 Open database error ::exit(1); 
+2017-05-17 03:54:11 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:54:11 Open database error ::exit(1); 
+2017-05-17 03:54:47 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:54:47 Open database error ::exit(1); 
+2017-05-17 03:55:23 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:55:23 Open database error ::exit(1); 
+2017-05-17 03:55:29 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:55:29 Open database error ::exit(1); 
+2017-05-17 03:55:35 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:55:35 Open database error ::exit(1); 
+2017-05-17 03:56:43 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 03:56:43 Open database error ::exit(1); 
+2017-05-17 03:58:33 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 03:58:33 Open database error ::exit(1); 
+2017-05-17 03:58:38 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:58:38 Open database error ::exit(1); 
+2017-05-17 03:59:14 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:59:14 Open database error ::exit(1); 
+2017-05-17 03:59:50 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:59:50 Open database error ::exit(1); 
+2017-05-17 03:59:56 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 03:59:56 Open database error ::exit(1); 
+2017-05-17 04:01:04 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:01:04 Open database error ::exit(1); 
+2017-05-17 04:02:12 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:02:12 Open database error ::exit(1); 
+2017-05-17 04:02:17 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:02:17 Open database error ::exit(1); 
+2017-05-17 04:02:53 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:02:53 Open database error ::exit(1); 
+2017-05-17 04:03:29 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:03:29 Open database error ::exit(1); 
+2017-05-17 04:04:38 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:04:38 Open database error ::exit(1); 
+2017-05-17 04:05:46 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:05:46 Open database error ::exit(1); 
+2017-05-17 04:05:51 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:05:51 Open database error ::exit(1); 
+2017-05-17 04:06:27 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:06:27 Open database error ::exit(1); 
+2017-05-17 04:07:03 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:07:03 Open database error ::exit(1); 
+2017-05-17 04:08:11 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:08:11 Open database error ::exit(1); 
+2017-05-17 04:09:19 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:09:19 Open database error ::exit(1); 
+2017-05-17 04:09:24 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:09:24 Open database error ::exit(1); 
+2017-05-17 04:10:32 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:10:32 Open database error ::exit(1); 
+2017-05-17 04:11:40 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:11:40 Open database error ::exit(1); 
+2017-05-17 04:11:45 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:11:45 Open database error ::exit(1); 
+2017-05-17 04:12:21 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:12:21 Open database error ::exit(1); 
+2017-05-17 04:12:57 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:12:57 Open database error ::exit(1); 
+2017-05-17 04:14:05 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:14:05 Open database error ::exit(1); 
+2017-05-17 04:15:13 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:15:13 Open database error ::exit(1); 
+2017-05-17 04:15:18 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:15:18 Open database error ::exit(1); 
+2017-05-17 04:16:26 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:16:26 Open database error ::exit(1); 
+2017-05-17 04:16:31 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:16:31 Open database error ::exit(1); 
+2017-05-17 04:17:39 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:17:39 Open database error ::exit(1); 
+2017-05-17 04:18:47 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:18:47 Open database error ::exit(1); 
+2017-05-17 04:18:52 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:18:52 Open database error ::exit(1); 
+2017-05-17 04:19:01 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:19:01 Open database error ::exit(1); 
+2017-05-17 04:19:08 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:19:08 Open database error ::exit(1); 
+2017-05-17 04:19:14 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:19:14 Open database error ::exit(1); 
+2017-05-17 04:19:20 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:19:20 Open database error ::exit(1); 
+2017-05-17 04:19:26 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:19:26 Open database error ::exit(1); 
+2017-05-17 04:19:32 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:19:32 Open database error ::exit(1); 
+2017-05-17 04:19:38 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:19:38 Open database error ::exit(1); 
+2017-05-17 04:19:44 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:19:44 Open database error ::exit(1); 
+2017-05-17 04:20:20 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:20:20 Open database error ::exit(1); 
+2017-05-17 04:20:26 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:20:26 Open database error ::exit(1); 
+2017-05-17 04:21:34 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:21:34 Open database error ::exit(1); 
+2017-05-17 04:22:42 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:22:42 Open database error ::exit(1); 
+2017-05-17 04:22:47 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:22:47 Open database error ::exit(1); 
+2017-05-17 04:23:55 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:23:55 Open database error ::exit(1); 
+2017-05-17 04:25:03 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:25:03 Open database error ::exit(1); 
+2017-05-17 04:25:08 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:25:08 Open database error ::exit(1); 
+2017-05-17 04:26:16 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:26:16 Open database error ::exit(1); 
+2017-05-17 04:27:24 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:27:24 Open database error ::exit(1); 
+2017-05-17 04:27:29 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:27:29 Open database error ::exit(1); 
+2017-05-17 04:28:05 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:28:05 Open database error ::exit(1); 
+2017-05-17 04:29:13 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:29:13 Open database error ::exit(1); 
+2017-05-17 04:30:21 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:30:21 Open database error ::exit(1); 
+2017-05-17 04:30:26 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:30:26 Open database error ::exit(1); 
+2017-05-17 04:31:02 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:31:02 Open database error ::exit(1); 
+2017-05-17 04:31:08 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:31:08 Open database error ::exit(1); 
+2017-05-17 04:31:44 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:31:44 Open database error ::exit(1); 
+2017-05-17 04:32:52 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:32:52 Open database error ::exit(1); 
+2017-05-17 04:34:00 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:34:00 Open database error ::exit(1); 
+2017-05-17 04:34:05 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:34:05 Open database error ::exit(1); 
+2017-05-17 04:34:41 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:34:41 Open database error ::exit(1); 
+2017-05-17 04:35:17 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:35:17 Open database error ::exit(1); 
+2017-05-17 04:35:53 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:35:53 Open database error ::exit(1); 
+2017-05-17 04:36:29 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:36:29 Open database error ::exit(1); 
+2017-05-17 04:37:37 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:37:37 Open database error ::exit(1); 
+2017-05-17 04:38:45 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:38:45 Open database error ::exit(1); 
+2017-05-17 04:38:50 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:38:50 Open database error ::exit(1); 
+2017-05-17 04:38:56 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:38:56 Open database error ::exit(1); 
+2017-05-17 04:40:04 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:40:04 Open database error ::exit(1); 
+2017-05-17 04:41:12 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:41:12 Open database error ::exit(1); 
+2017-05-17 04:41:17 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:41:17 Open database error ::exit(1); 
+2017-05-17 04:41:53 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:41:53 Open database error ::exit(1); 
+2017-05-17 04:42:29 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:42:29 Open database error ::exit(1); 
+2017-05-17 04:43:38 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:43:38 Open database error ::exit(1); 
+2017-05-17 04:44:46 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:44:46 Open database error ::exit(1); 
+2017-05-17 04:44:51 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:44:51 Open database error ::exit(1); 
+2017-05-17 04:45:59 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:45:59 Open database error ::exit(1); 
+2017-05-17 04:47:07 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:47:07 Open database error ::exit(1); 
+2017-05-17 04:47:12 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:47:12 Open database error ::exit(1); 
+2017-05-17 04:48:20 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:48:20 Open database error ::exit(1); 
+2017-05-17 04:49:28 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:49:28 Open database error ::exit(1); 
+2017-05-17 04:49:33 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:49:33 Open database error ::exit(1); 
+2017-05-17 04:50:41 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:50:41 Open database error ::exit(1); 
+2017-05-17 04:50:46 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:50:46 Open database error ::exit(1); 
+2017-05-17 04:51:22 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:51:22 Open database error ::exit(1); 
+2017-05-17 04:51:58 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:51:58 Open database error ::exit(1); 
+2017-05-17 04:53:06 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:53:06 Open database error ::exit(1); 
+2017-05-17 04:54:14 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:54:14 Open database error ::exit(1); 
+2017-05-17 04:54:19 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:54:19 Open database error ::exit(1); 
+2017-05-17 04:55:27 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:55:27 Open database error ::exit(1); 
+2017-05-17 04:56:35 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:56:35 Open database error ::exit(1); 
+2017-05-17 04:56:40 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:56:40 Open database error ::exit(1); 
+2017-05-17 04:56:46 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:56:46 Open database error ::exit(1); 
+2017-05-17 04:56:52 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:56:52 Open database error ::exit(1); 
+2017-05-17 04:56:58 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:56:58 Open database error ::exit(1); 
+2017-05-17 04:58:06 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:58:06 Open database error ::exit(1); 
+2017-05-17 04:59:14 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (110) QMYSQL: Unable to connect" 
+2017-05-17 04:59:14 Open database error ::exit(1); 
+2017-05-17 04:59:19 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:59:19 Open database error ::exit(1); 
+2017-05-17 04:59:25 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:59:25 Open database error ::exit(1); 
+2017-05-17 04:59:31 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:59:31 Open database error ::exit(1); 
+2017-05-17 04:59:37 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Error :Can't connect to MySQL server on '10.0.0.5' (113) QMYSQL: Unable to connect" 
+2017-05-17 04:59:37 Open database error ::exit(1); 
+2017-05-17 05:00:13 "Open DatabaseName = localvnm,HostName = 10.0.0.5,AliasName =SendMailLocalDatabase0,Ok" 
+2017-05-17 05:00:14 LOOP 0 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 05:28:48 LOOP 300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 05:54:38 LOOP 600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 06:20:29 LOOP 900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 06:46:34 LOOP 1200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 07:12:20 LOOP 1500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 07:38:11 LOOP 1800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 08:03:43 LOOP 2100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 08:29:30 LOOP 2400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 08:55:21 LOOP 2700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 09:20:59 LOOP 3000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 09:46:33 LOOP 3300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 10:12:21 LOOP 3600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 10:37:55 LOOP 3900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 11:03:29 LOOP 4200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 11:29:04 LOOP 4500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 11:54:41 LOOP 4800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 12:20:31 LOOP 5100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 12:46:09 LOOP 5400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 13:11:47 LOOP 5700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 13:37:23 LOOP 6000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 14:03:12 LOOP 6300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 14:29:26 LOOP 6600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 14:55:07 LOOP 6900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 15:20:59 LOOP 7200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 15:46:33 LOOP 7500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 16:12:16 LOOP 7800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 16:38:02 LOOP 8100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 17:03:42 LOOP 8400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 17:29:23 LOOP 8700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 17:54:58 LOOP 9000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 18:20:27 LOOP 9300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 18:45:57 LOOP 9600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 19:11:24 LOOP 9900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 19:36:53 LOOP 10200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 20:02:21 LOOP 10500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 20:27:50 LOOP 10800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 20:53:19 LOOP 11100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 21:19:04 LOOP 11400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 21:44:34 LOOP 11700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 22:10:02 LOOP 12000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 22:35:30 LOOP 12300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 23:00:57 LOOP 12600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 23:26:25 LOOP 12900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2017-05-17 23:51:52 LOOP 13200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 

@@ -1,0 +1,58 @@
+2016-12-29 00:16:05 "Open DatabaseName = localvnm,HostName = localhost,AliasName =SendMailLocalDatabase0,Ok" 
+2016-12-29 00:16:05 LOOP 0 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 00:41:06 LOOP 300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 01:06:07 LOOP 600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 01:31:07 LOOP 900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 01:56:29 LOOP 1200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 02:21:37 LOOP 1500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 02:46:52 LOOP 1800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 03:12:06 LOOP 2100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 03:37:07 LOOP 2400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 04:02:07 LOOP 2700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 04:27:08 LOOP 3000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 04:52:09 LOOP 3300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 05:17:09 LOOP 3600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 05:42:10 LOOP 3900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 06:07:25 LOOP 4200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 06:32:33 LOOP 4500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 06:57:33 LOOP 4800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 07:22:34 LOOP 5100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 07:47:49 LOOP 5400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com") SMSEvent 7 EmailEvent 15 
+2016-12-29 08:13:07 LOOP 5700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 08:38:28 LOOP 6000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 09:03:29 LOOP 6300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 09:28:30 LOOP 6600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 09:53:51 LOOP 6900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 10:18:52 LOOP 7200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 10:44:14 LOOP 7500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 11:09:56 LOOP 7800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 11:34:56 LOOP 8100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 12:00:38 LOOP 8400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 12:25:59 LOOP 8700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 12:51:00 LOOP 9000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 13:16:01 LOOP 9300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 13:41:23 LOOP 9600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 14:06:24 LOOP 9900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 14:32:18 LOOP 10200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 14:58:41 LOOP 10500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 15:23:41 LOOP 10800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 15:49:14 LOOP 11100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 16:14:15 LOOP 11400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 16:39:36 LOOP 11700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 17:04:37 LOOP 12000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 17:29:38 LOOP 12300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 17:56:41 LOOP 12600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 18:22:44 LOOP 12900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 18:48:05 LOOP 13200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 19:13:06 LOOP 13500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 19:38:17 LOOP 13800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 20:03:18 LOOP 14100 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 20:28:18 LOOP 14400 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 20:53:19 LOOP 14700 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 21:18:31 LOOP 15000 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 21:43:43 LOOP 15300 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 22:08:44 LOOP 15600 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 22:33:56 LOOP 15900 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 22:58:56 LOOP 16200 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 23:23:57 LOOP 16500 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
+2016-12-29 23:49:19 LOOP 16800 SMSList ("") EmailList ("dieuhanhgiaothong@gmail.com", "nguyenduytan71@gmail.com", "nhtinh@cadpro.vn") SMSEvent 7 EmailEvent 15 
